@@ -11,9 +11,8 @@ the debugged program.
 
 LICENSE & COPYRIGHT
 -----
-   Copyright (c) 2017 @MrMattBusby
-       All rights reserved
-        Licensed LGPL-v3.0
+MIT License
+Copyright (c) 2022 @MrMattBusby
 See LICENSE for a copy of the license
 
 USAGE
